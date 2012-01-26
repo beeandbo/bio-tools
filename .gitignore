@@ -1,3 +1,7 @@
 downloads/
 fastq/
 fasta/
+dbs/
+*.fasta
+*.fa
+*.csv
